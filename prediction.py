@@ -11,6 +11,7 @@ from keras.models import load_model
 
 # TO LOAD THE PRE-TRAINED MODEL: uncomment the line below
 model = load_model("model.h5")
+
 path = "single_prediction/cat_or_dog_4.jpg"  # Put here the path to image
 test_image = image.load_img(path, target_size=(64, 64))
 test_image = image.img_to_array(test_image)
