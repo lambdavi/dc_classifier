@@ -1,8 +1,6 @@
 # dc_classifier
 A simple dogs and cats classifier made with Keras.
 
-
-
 <h1>DEPENDENCIES:</h1><br>
 pip install numpy<br>
 pip install keras
