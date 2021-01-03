@@ -1,11 +1,10 @@
 # dc_classifier
+ACCURACY: 82% (improving)
 A simple dogs and cats classifier made with Keras.
 
 <h1>DEPENDENCIES:</h1>
-pip install numpy
-pip install keras
-<br>
-ACCURACY: 82% (improving)
+pip install numpy<br>
+pip install keras<br>
 <br>
 If you want train or optimize the model uncomment create_model command in prediction.py (and comment the load_model command) and download dogs and cats dataset.
 
