@@ -4,8 +4,10 @@ ACCURACY: 82% (improving)<br>
 
 <h1>DEPENDENCIES:</h1>
 ```
-pip install numpy<br>
-pip install keras<br>
+pip install numpy
+```
+```
+pip install keras
 ```
 <br>
 If you want train or optimize the model uncomment create_model command in prediction.py (and comment the load_model command) and download dogs and cats dataset.
