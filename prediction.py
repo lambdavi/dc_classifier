@@ -4,10 +4,10 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import numpy as np
 from keras.preprocessing import image
 from keras.models import load_model
-from create_classifier import create_model
 
-# TO TRAIN MODEL FROM ZERO: uncomment the line below
+# TO TRAIN MODEL FROM ZERO: uncomment the lines below (and comment the load_model command)
 # model = create_model()
+# from create_classifier import create_model
 
 # TO LOAD THE PRE-TRAINED MODEL: uncomment the line below
 model = load_model("model.h5")
