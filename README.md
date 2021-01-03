@@ -1,6 +1,6 @@
 # dc_classifier
-ACCURACY: 82% (improving)
-A simple dogs and cats classifier made with Keras.
+ACCURACY: 82% (improving)<br>
+<p style="color:red">A simple dogs and cats classifier made with Keras.</p>
 
 <h1>DEPENDENCIES:</h1>
 pip install numpy<br>
