@@ -10,8 +10,8 @@ If you want train or optimize the model uncomment create_model command in predic
 
 
 <h1>TUTORIAL:</h1>
-```diff
-- Download the project and extract it.<br>
+```html
+<p style="color:red"> Download the project and extract it.<br></p
 - Edit predictions.py adding in path variable the image path (containing dog(s) or cat(s))<br>
 - Run the program and get in result[0][0] the predicted value: 0 - Cat, 1 - Dog.
 ```
