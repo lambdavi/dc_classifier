@@ -1,4 +1,5 @@
-# dc_classifier
+# Dog and Cat classifier.
+Note: this project is outdated but it was my first project in this context.
 ACCURACY: 82% (improving)<br>
 <p style="color:red">A simple dogs and cats classifier made with Keras.</p>
 
